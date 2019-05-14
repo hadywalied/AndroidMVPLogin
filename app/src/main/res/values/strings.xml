@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidMVPLogin</string>
+    <string name="mvp_rocks">MVP Rocks</string>
+    <string name="username">username</string>
+    <string name="email">Email</string>
+</resources>
